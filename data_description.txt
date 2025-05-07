@@ -1,0 +1,12 @@
+📁 Dataset: Weekly Telecom Complaints (Time Series)
+
+This dataset contains weekly complaint volumes for a telecom provider, along with marketing and promotional indicators.
+
+Columns:
+
+- week: The time period (weekly date or index)
+- complaints: Number of customer complaints registered that week
+- discount_rate: Discount percentage offered during the week
+- small_commercial_event: Binary flag indicating a minor promo or campaign
+- medium_commercial_event: Binary flag for a mid-level commercial event
+- big_commercial_event: Binary flag for a major campaign (e.g., product launch or ad blitz)
