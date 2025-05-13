@@ -68,27 +68,27 @@ This project applied time series forecasting to weekly complaint data for a tele
 - **Triple Exponential Smoothing (Holt-Winters)** captured the trend and seasonality better than single/double smoothing.
 
 ### 📉 Seasonal Decomposition of Complaints
-![Seasonal Decomposition](plots/seasonal_decomposition.png)
+![Seasonal Decomposition](plot/seasonal_decomposition.png)
 
 ### 🔄 Autocorrelation Pattern
 Shows seasonality and dependence on past values:
-![Autocorrelation](plots/auto_correlation.png)
+![Autocorrelation](plot/auto_correlation.png)
 
 ---
 
 ## 🧪 Model Comparisons & Predictions
 
 ### 🔹 Simple Exponential Smoothing (SES)
-![SES Prediction](plots/single_exp_smoothing_prediction.png)
+![SES Prediction](plot/single_exp_smoothing_prediction.png)
 
 ### 🔹 Holt’s Linear Trend Method
-![Holt Prediction](plots/double_exp_smooting_prediction.png)
+![Holt Prediction](plot/double_exp_smooting_prediction.png)
 
 ### 🔹 Holt-Winters Forecast (Triple Exponential Smoothing)
-![Triple Exp Prediction](plots/triple_exp_smoothing_prediction.png)
+![Triple Exp Prediction](plot/triple_exp_smoothing_prediction.png)
 
 ### 🔮 Future Forecast with Holt-Winters
-![Holt-Winters Forecast](plots/Holt_winter_future_prediction.png)
+![Holt-Winters Forecast](plot/Holt_winter_future_prediction.png)
 
 ---
 
